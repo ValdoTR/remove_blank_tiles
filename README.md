@@ -2,10 +2,12 @@
 
 This script allows you to remove blank tiles from images in a specified directory. It crops out any empty 32x32 pixel tiles (you can change the tile size) from the top, left, and right sides of the images.
 
-**BEFORE**
+BEFORE
+
 ![Sample Input](doc_sample_input.png)
 
-**AFTER**
+AFTER
+
 ![Sample Output](doc_sample_output.png)
 
 ## Requirements
