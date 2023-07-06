@@ -4,11 +4,11 @@ This script allows you to remove blank tiles from images in a specified director
 
 BEFORE
 
-![Sample Input](doc_sample_input.png)
+![Sample Input](doc_sample_input.png | width=100)
 
 AFTER
 
-![Sample Output](doc_sample_output.png)
+![Sample Output](doc_sample_output.png | width=50)
 
 ## Requirements
 
