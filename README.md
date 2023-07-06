@@ -5,7 +5,7 @@ This script allows you to remove blank tiles from images in a specified director
 BEFORE
 
 <picture>
-  <img alt="Shows an the sample image BEFORE processing" src="doc_sample_input.png" width=10% height=10%>
+  <img alt="Shows an the sample image BEFORE processing" src="doc_sample_input.png" width="100" width="150">
 </picture>
 
 AFTER
