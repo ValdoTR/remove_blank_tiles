@@ -2,6 +2,8 @@
 
 This script allows you to remove blank tiles from images in a specified directory. It crops out any empty 32x32 pixel tiles (you can change the tile size) from the top, left, and right sides of the images.
 
+Originally been made for 
+
 BEFORE
 
 <picture>
@@ -23,6 +25,8 @@ AFTER
 1. Clone the repository
 2. Navigate to the project directory
 3. Install Pillow with pip:
+
+> If 'python3' is not working for you, try with 'python'
 
 ```bash
 python3 -m pip install --upgrade pip
