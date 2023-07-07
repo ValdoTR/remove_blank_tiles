@@ -2,7 +2,7 @@
 
 This script allows you to remove blank tiles from images in a specified directory. It crops out any empty 32x32 pixel tiles (you can change the tile size) from the top, left, and right sides of the images.
 
-Originally been made for 
+Originally made for [LimeZu](https://limezu.itch.io/) assets.
 
 BEFORE
 
