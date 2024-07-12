@@ -1,16 +1,18 @@
-# Image Cropping Script
+# Remove Blank Tiles
+
+![remove_blank_tiles logo](remove_blank_tiles.webp)
 
 This script allows you to remove blank tiles from images in a specified directory. It crops out any empty 32x32 pixel tiles (you can change the tile size) from the top, left, and right sides of the images.
 
 Originally made for [LimeZu](https://limezu.itch.io/) assets.
 
-BEFORE
+*BEFORE*
 
 <picture>
   <img alt="Shows an the sample image BEFORE processing" src="doc_sample_input.png" width="100" width="150">
 </picture>
 
-AFTER
+*AFTER*
 
 <picture>
   <img alt="Shows an the sample image BEFORE processing" src="doc_sample_output.png" width="50" width="50">
@@ -37,7 +39,7 @@ python3 -m pip install --upgrade Pillow
 
 1. Place your input images in the `input` directory.
 2. Run the script using the command: `python3 script.py`
-3. The cropped images will be saved in the `output` directory, maintaining the same directory structure as the input.
+3. The cropped images will be saved in the `output` directory, maintaining the same directory structure as the input directory.
 
 ## Configuration
 
